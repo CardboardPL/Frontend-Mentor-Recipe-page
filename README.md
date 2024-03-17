@@ -33,7 +33,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/CardboardPL/Frontend-Mentor-Recipe-page)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://cardboardpl.github.io/Frontend-Mentor-Recipe-page/)
 
 ## My process
 
