@@ -1,0 +1,42 @@
+.recipe {
+  background-color: hsl(0, 0%, 100%);
+  padding: 40px;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 750px;
+  margin: 50px auto;
+}
+
+.recipe-photo {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.recipe-description h1 {
+  color: hsl(24, 5%, 18%);
+  font-size: 2rem;
+  margin: 1.8rem 0 1.2rem 0;
+}
+
+.prep-time-section {
+  background-color: #fef6fc;
+  padding: 20px 28px;
+  border-radius: 16px;
+}
+
+.prep-time-section h2 {
+  font-size: calc(1rem + 4px);
+  color: hsl(332, 51%, 32%);
+  margin: 0;
+}
+
+@media (max-width: 770px) {
+  .recipe {
+    margin-top: 0;
+    padding: 0;
+  }
+  .recipe-photo {
+    border-radius: 0;
+  }
+}
